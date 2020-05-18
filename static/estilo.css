@@ -7,7 +7,7 @@ html {
     font-size: 1.3vw;
 }
 @media(max-width: 599px) {
-    #contenedor, #contenido, #encabezado h1, .materia, .actividad {
+    #contenedor, #contenido, #encabezado h1, .actividad {
         font-size: 12px;
     }
     #encabezado h2, #encabezado h3 {
@@ -248,9 +248,6 @@ a.boton:active{
         color: inherit;
         text-decoration: underline;
     }
-
-        
-
 }
 
 
